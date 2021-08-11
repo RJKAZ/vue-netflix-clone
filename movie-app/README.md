@@ -1,4 +1,4 @@
-# netflix
+# movie-app
 
 ## Project setup
 ```
